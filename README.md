@@ -1,3 +1,15 @@
+<!-- 
+  👋 Welcome to your GitHub Profile README!
+  
+  Customize this profile by:
+  - Updating the "About Me" section with your personal information
+  - Adding/removing tech badges based on your actual skills
+  - Updating social media links in the "Let's Connect" section
+  - Personalizing the animated header message
+  
+  All GitHub stats are automatically generated using your username!
+-->
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+CodeVenturePro+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </h1>
